@@ -1,2 +1,8 @@
-# mentalrhythms-app
-Small app to show you physical, emotional and intellectual side from your date of birth -- https://mentalrhythms.netlify.app/
+# Biorhythm Calculator
+
+This example is part of the Ionic React course.
+
+## Links
+
+ * [Biorhythm](https://en.wikipedia.org/wiki/Biorhythm) Wikipedia entry
+ * [Biorhythm Calculator](https://keisan.casio.com/exec/system/1340246447) by Casio
