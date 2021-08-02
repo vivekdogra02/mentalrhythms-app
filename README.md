@@ -1,6 +1,6 @@
 # Biorhythm Calculator
 
-This example is part of the Ionic React course.
+Stack - Ionic with React.
 
 ## Links
 
